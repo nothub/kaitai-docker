@@ -1,0 +1,8 @@
+*
+!*/
+
+!/*.md
+!/.github/**
+!/.gitignore
+!/Dockerfile
+!/Makefile
